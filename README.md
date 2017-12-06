@@ -5,5 +5,5 @@
 * Email: all4dich@gmail.com
 
 ## Supporter Information
-* Name: Soyul Park
-* Email: mysoyul.park@lge.com
+* Name: Gate Keeper
+* Email: gatekeeper.tvsw@lge.com
