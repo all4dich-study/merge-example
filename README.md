@@ -6,3 +6,4 @@
 
 ## Supporter Information
 * Name: Soyul Park
+* Email: mysoyul.park@lge.com
