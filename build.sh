@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello world, in git" > 2
+echo "Hello world, in git"
