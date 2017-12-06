@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Hello world, in git"
-exit 1
+echo "Hello world, in git" > 2
